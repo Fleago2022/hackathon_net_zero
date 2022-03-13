@@ -28,4 +28,8 @@ https://www.figma.com/proto/fdjmMVo3vj9AIjqPrG3Ybk/FleaGo-Prototype?node-id=37%3
 
 For video tutorials please refer to the Video_Tutorials folder.
 
-   
+The Team:
+
+Sina Deznabi        (https://www.linkedin.com/in/sdeznabi/)   : Team Leader
+Adrian Luna         (https://www.linkedin.com/in/adrian-luna) : Ux Designer
+Pranav Van Pradeep  (https://www.linkedin.com/in/vanpp)       : Full Stack Developer
